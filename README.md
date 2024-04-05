@@ -27,6 +27,7 @@ Execute the programs and publish them.
 ## CODE
 '''
 <html>
+    
     <head>
         <title>My city</title>
     </head>
@@ -48,6 +49,7 @@ Execute the programs and publish them.
             </map>
         </center>
     </body>
+    
 </html>
 
 '''
